@@ -1,4 +1,4 @@
-# 
+# Enhance JetBrains Rider for PC | JetBrains Rider for Windows with new JetBrains Rider for PC | JetBrains Rider for Windows Theme | code-analysis + custom-themes, the #1 theme.
 
 
 
